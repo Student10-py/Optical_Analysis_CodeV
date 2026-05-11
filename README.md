@@ -1,13 +1,14 @@
 # Optical_Analysis_CodeV
 
 Useful optical analysis tools for CodeV.
+
 Developed to provide more detailed method for on-site analysis and simulations.
 These are the building blocks for my CodeV analysis frameworks. 
 
-<h2><b> SETCAM.SEQ </b></h2>
-  - Camera Setup based on Trioptics ImageMaster® PRO Series.
-  - Supports S-T method for MTF calculation. (S-T: Sag & Tan azimuth angle method)
-  - 
+<b> SETCAM.SEQ </b>
+  - Camera Setup : based on Trioptics ImageMaster® PRO Series.
+  - Azimuth Angle : supports both H-V and S-T method. (Horizontal & Vertical, Sag & Tan)
+  - Field Type : Real Image Height Only. (XRI & YRI)
 
 
  
